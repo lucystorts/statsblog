@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
-permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+name: "Data Dilemmas and Discussions"
+email: "lucystorts@gmail.com"
+url: "https://lucystorts.github.io"
+description: "This blog will explore my different interests in data science and catalog my projects. Thanks for stopping by!"
+author: "Lucy Storts"
+title: "Data Dilemmas and Discussions"
+permalink: pretty #??
+baseurl: /statsblog
 
 # social
 github:
-  username: username
+  username: lucystorts
 
-twitter:
-  username: username
+#twitter:
+#  username: username

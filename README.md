@@ -13,7 +13,7 @@ A simple and easy to use blog and portfolio theme for Jekyll
 
 
 ##  Preview
-![alt text](blogfolio.gif "Blogfolio")
+![alt text](https://raw.githubusercontent.com/lamccloskey/jekyll-theme-blogfolio/blob/master/blogfolio.gif) "Blogfolio")
 
 
 ---

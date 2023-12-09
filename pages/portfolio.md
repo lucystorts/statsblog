@@ -1,12 +1,8 @@
 ---
-#layout: page
-#title: Resume # Re-named Gallery to Resume 
+layout: page
+title: Portfolio
+permalink: /portfolio/
 #color: rgb(29, 130, 130)
-#feature-img: "assets/img/butterflies.png"
-#permalink: /Resume/
-#gallery_path: "assets/img/pexels" 
-#footer_text: social.yml
-#tags: [Page]
 ---
 
 # ​LUCY STORTS

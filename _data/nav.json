@@ -1,11 +1,13 @@
 {
     "items": [{
             "name": "Resume",
-            "link": "/resume/"
+            "link": "/resume/",
+            "mdFile": "https://github.com/lucystorts/statsblog/raw/myblog/pages/resume.md"
         },
         {
             "name": "About",
-            "link": "/about/"
+            "link": "/about/",
+            "mdFile": "https://github.com/lucystorts/statsblog/raw/myblog/pages/about.md"
         }
     ]
 }

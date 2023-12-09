@@ -11,7 +11,6 @@ Hello! My name is Lucy Storts and I am a senior studying Statistics at Brigham Y
 
 <img src="https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/picofme.jpg" alt="" style="width:600px;"/>
 
-
 Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited to reunite when I graduate. 
 
 <img src="https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/benson.jpg" alt="" style="width:600px;"/>
@@ -20,8 +19,8 @@ Some of my professional interests include epidemiological data, climate change, 
 
 Finally, I wanted to thank you for checking out my blog! Just for fun, here are a couple pictures I took last summer while hiking at Glacier NP...
 
-![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp1.jpg) <br>
+<img src="https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp1.jpg" alt="" style="width:600px;"/> <br>
 
-![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp2.jpg) <br>
+<img src="https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp2.jpg" alt="" style="width:600px;"/> <br>
 
-![Figure](https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp3.jpg) <br>
+<img src="https://raw.githubusercontent.com/lucystorts/stat386-projects/main/assets/images/glaciernp3.jpg" alt="" style="width:600px;"/> <br>

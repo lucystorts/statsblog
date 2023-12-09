@@ -13,8 +13,9 @@
 
 *** 
 
-*Objective*​ - Currently looking for summer internships and full-time <br>
-work post graduation in data science, data analysis, or statistics. <br>
+*Objective*​ - Currently looking for full-time work post <br>
+graduation in data science, data analysis, or statistics. <br>
+&emsp; Graduation: Dec 2023
 
 ### CONTACT INFORMATION
 

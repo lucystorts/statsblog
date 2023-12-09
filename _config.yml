@@ -2,7 +2,7 @@
 name: "Data Dilemmas and Discussions"
 email: "lucystorts@gmail.com"
 url: "https://lucystorts.github.io"
-description: "This blog will explore my different interests in data science and catalog my projects. Thanks for stopping by!"
+description: "Data Science Blog"
 author: "Lucy Storts"
 title: "Data Dilemmas and Discussions"
 permalink: pretty
@@ -12,5 +12,5 @@ baseurl: /statsblog
 github:
   username: lucystorts
 
-#twitter:
-#  username: username
+tableau:
+  username: lucy.storts

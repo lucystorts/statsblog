@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Resume
+permalink: /Resume/
 #color: rgb(29, 130, 130)
 ---
 

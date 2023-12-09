@@ -15,9 +15,19 @@ permalink: /about/
             
             <hr>
 
-            {% for paragraph in site.data.about.paragraphs %}
-            <p>{{paragraph}}</p>
-            {% endfor %}
+            <div id="markdown-content"></div>
+
+            <script src="./node_modules/marked/marked.min.js"></script>
+            <script> 
+                var aboutPath = 'https://github.com/lucystorts/statsblog/blob/myblog/_data/about.md';
+                // Fetch the Markdown file content
+                fetch(aboutPath)
+                    .then(response => response.text())
+                    .then(markdown => {
+                        // Convert Markdown to HTML and append it to the 'markdown-content' div
+                        document.getElementById('markdown-content').innerHTML = marked(markdown);
+                    });
+            </script>
             
         </div>
     </div>

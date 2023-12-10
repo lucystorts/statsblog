@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Resume
 permalink: /resume/
 #color: rgb(29, 130, 130)

@@ -9,7 +9,21 @@ layout: default
         </div>
         <br>
     </div>
+    <script>
+        function renderMarkdown(markdown) {
+        // Use a Markdown rendering library, such as marked
+        // Example: npm install marked
+        const marked = require('marked');
+    
+        // Render the Markdown to HTML
+        const html = marked(markdown);
+
+        return html;
+    }
+    </script>
+
+
     <div class="container">
-        {{content}}
+        {{ renderMarkdown(content) }}
     </div>
 </section>

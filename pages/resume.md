@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /Resume/
+permalink: /resume/
 #color: rgb(29, 130, 130)
 ---
 

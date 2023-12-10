@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="section">
-    <div class="container">
+    <div class="container"> 
         <div class="heading has-text-centered">
             <h1 class="title is-3">{{page.title}}</h1>
         </div>
@@ -13,6 +13,8 @@ layout: default
         function renderMarkdown(markdown) {
         // Use a Markdown rendering library, such as marked
         // Example: npm install marked
+
+        // NOT USING THIS SCRIPT ANYMORE, use POST LAYOUT FOR ALL
         const marked = require('marked');
     
         // Render the Markdown to HTML

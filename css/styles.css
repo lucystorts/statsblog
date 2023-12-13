@@ -14,8 +14,10 @@ body {
   position: relative;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: "Roboto", "Roboto", serif;
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
 }
+
+/* "Roboto", "Roboto", serif;*/
 
 .page-footer {
   position: absolute;

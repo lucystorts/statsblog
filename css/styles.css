@@ -1,5 +1,5 @@
 .footer {
-  background-color: whitesmoke;
+  background-color: #adebeb;
   padding: 3rem 1.5rem 6rem;
 }
 
@@ -14,7 +14,7 @@ body {
   position: relative;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+  font-family: Geneva,Tahoma,Verdana,sans-serif;
 }
 
 /* "Roboto", "Roboto", serif;*/
@@ -36,6 +36,6 @@ body {
 }
 
 .hero.is-primary {
-  background-color: #FF8C69;
+  background-color: #248f8f;
   color: white;
 }

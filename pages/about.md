@@ -5,20 +5,38 @@ permalink: /about/
 #color: rgb(29, 130, 130)
 ---
 
-Hello! My name is Lucy Storts and I am a senior studying Statistics at Brigham Young University. I took a statistics class in high school and was fascinated by all the different fields statistics can be applicatied to. This is my last semester of school and I am very excited to graduate!
+<p align="center">
+    <img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/picofme.jpeg" alt="" style="width:600px;"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/picofme.jpg" alt="" style="width:600px;"/> 
 
-Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited to reunite when I graduate. 
+###  Hello! 
+My name is Lucy Storts. I recently graduated with a B.S. in Statistical Science and I am passionate about applying statistical methodologies to real-world scenarios. My academic background has equipped me with expertise in various aspects of statistical analysis, including experimental design, data collection and interpretation, visualization techniques, and statistical programming.
 
-<img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/benson.jpg" alt="" style="width:600px;"/>
+Throughout my college years, I studied many statistical principles and gained practical experience as a Teacher Assistant over multiple semesters. This job required that I know fundamental statistical concepts thoroughly and be ready to answer any question a student might have. 
 
-Some of my professional interests include epidemiological data, climate change, women's health, healthcare data, bioinformatics, and application of machine learning to the study of genetics. I believe the "hard-to-answer" questions can be answered through data collection and analysis, and I am excited to share and apply what I've been studying to real world problems. 
+Proficient in a range of statistical programming languages such as R, Python, SAS, SQL, as well as in tools like MS Word and Excel, I am adept at leveraging these technologies to analyze data and derive meaningful insights. My strong organizational and managerial skills ensure efficient project coordination and meticulous record management, vital for maintaining accuracy and integrity in statistical analyses.
 
-Finally, I wanted to thank you for checking out my blog! Just for fun, here are a couple pictures I took last summer while hiking at Glacier NP...
+I have a  passion for exploring the applications of statistical science in diverse fields and I am eager to contribute my skills and knowledge to projects that require rigorous analysis and data-driven decision-making. 
 
-<img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/glaciernp1.jpg" alt="" style="width:600px;"/> <br>
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/lucystorts/) <br>
 
-<img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/glaciernp2.jpg" alt="" style="width:600px;"/> <br>
+Some of my interests outside of work include hiking, traveling, arts & crafts, reading, taking care of my houseplants, and playing with my sister's dog, Benson. <br>
 
-<img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/glaciernp3.jpg" alt="" style="width:600px;"/> <br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/benson.jpg" alt="" style="height:600px;"/>
+</p>
+
+Some of my professional interests include epidemiological data, climate change, women's health, healthcare data, genetics, data visualization, and data collection & cleaning. I believe the "hard-to-answer" questions can be answered through data science processes and I am excited to share and apply what I've been studying to real world situations. <br>
+
+Finally, I wanted to thank you for checking out my blog! Just for fun, here are a couple pictures I took while hiking at Glacier NP in 2022...
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/glaciernp1.jpg" alt="" style="width:600px;"/>
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/glaciernp2.jpg" alt="" style="width:600px;"/> 
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/lucystorts/statsblog/myblog/images/glaciernp3.jpg" alt="" style="width:600px;"/>
+</p>

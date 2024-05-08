@@ -15,7 +15,7 @@ My name is Lucy Storts. I recently graduated with a B.S. in Statistical Science 
 
 Throughout my college years, I studied many statistical principles and gained practical experience as a Teacher Assistant over multiple semesters. This job required that I know fundamental statistical concepts thoroughly and be ready to answer any question a student might have. 
 
-Proficient in a range of statistical programming languages such as R, Python, SAS, SQL, as well as in tools like MS Word and Excel, I am adept at leveraging these technologies to analyze data and derive meaningful insights. My strong organizational and managerial skills ensure efficient project coordination and meticulous record management, vital for maintaining accuracy and integrity in statistical analyses.
+I am proficient in a range of statistical programming languages such as R, Python, SAS, SQL, as well as in tools like MS Word and Excel. I am adept at leveraging these technologies to analyze data and derive meaningful insights. My strong organizational and managerial skills ensure efficient project coordination and meticulous record management, vital for maintaining accuracy and integrity in statistical analyses.
 
 I have a  passion for exploring the applications of statistical science in diverse fields and I am eager to contribute my skills and knowledge to projects that require rigorous analysis and data-driven decision-making. 
 

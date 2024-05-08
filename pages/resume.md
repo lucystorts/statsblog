@@ -7,6 +7,7 @@ permalink: /resume/
 
 # ​Lucy Storts
 
+***
 
 *Objective*​ - Currently looking for full-time work in statistics, data science, data analysis, or data visualization. 
 
@@ -16,7 +17,9 @@ Throughout my college years, I studied many statistical principles and gained pr
 
 Proficient in a range of statistical programming languages such as R, Python, SAS, SQL, as well as in tools like MS Word and Excel, I am adept at leveraging these technologies to analyze data and derive meaningful insights. My strong organizational and managerial skills ensure efficient project coordination and meticulous record management, vital for maintaining accuracy and integrity in statistical analyses.
 
-I have a  passion for exploring the applications of statistical science in diverse fields and I am eager to contribute my skills and knowledge to projects that require rigorous analysis and data-driven decision-making
+I have a  passion for exploring the applications of statistical science in diverse fields and I am eager to contribute my skills and knowledge to projects that require rigorous analysis and data-driven decision-making. 
+
+***
 
 
 ## Contact Info
@@ -24,6 +27,8 @@ I have a  passion for exploring the applications of statistical science in diver
 &emsp; Columbus, OH <br>
 &emsp; lucystorts@gmail.com <br>
 &emsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/lucystorts/) <br>
+
+***
 
 ## Work Experience
 
@@ -36,8 +41,7 @@ I have a  passion for exploring the applications of statistical science in diver
 ### Teacher Assistant
 &emsp; BYU Online -- *Provo, UT* <br> &emsp; JAN 2021 - APR 2022 <br>
   - Teacher Assistant for introductory statistics class, Stat 121 online
-  - Taught students, held office hours, hosted open labs, managed assigned labs, and graded students work
-  - Excellent in Canvas LMS <br>
+  - Taught students, held office hours, hosted open labs, managed assigned labs, and graded students work <br>
 
 ### Customer Service & Billing Associate 
 &emsp; ENGAGE Healthcare Business Services - *Columbus, OH* <br> &emsp; JUN 2020 - SEPT 2022 <br>
@@ -75,7 +79,7 @@ I have a  passion for exploring the applications of statistical science in diver
 ***
 
 ## Leadership
-### Program Coordinator​, *BYU Residence Housing Association*:
+### Program Coordinator​, *BYU Residence Housing Association*
 #### &emsp; SEP 2019 - DEC 2019
 - Plan programs for students living in residence halls on campus
 - Directed committees, attended a leadership retreat, and wrote reflections for each program
